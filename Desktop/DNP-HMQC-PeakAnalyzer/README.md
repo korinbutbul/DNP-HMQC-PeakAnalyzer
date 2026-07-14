@@ -2,7 +2,6 @@
 
 An automated Python tool designed to parse, filter, analyze, and visualize 2D NMR ($^1H$ - $^{13}C$ HMQC) peak lists enhanced by **Dynamic Nuclear Polarization (DNP)**. 
 
-This repository was built as a clean, modular, and fully tested final project, addressing all previous feedback regarding hardcoded paths, lack of documentation, and minimal analysis.
 
 ---
 
